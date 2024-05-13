@@ -1,5 +1,7 @@
-p
+table
 {
-color:purple;
-font-size: 20px;
+border: 0.2rem  red
+border-collapse: collapse;
+background-color: color=blue
+
 }
